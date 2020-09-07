@@ -1,1 +1,3 @@
-# veebirakendused-prax-2
+# webapp-lab2
+
+## Terve tuloa!
